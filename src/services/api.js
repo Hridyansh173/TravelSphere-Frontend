@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';  // Adjust based on your backend URL
+const API_BASE_URL = 'https://travelsphereback1.vercel.app/api';  // Adjust based on your backend URL
 
 // Trips endpoints
 export const GET_ALL_TRIPS_ENDPOINT = `${API_BASE_URL}/trips/getalltrips`;
